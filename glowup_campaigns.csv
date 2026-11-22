@@ -1,0 +1,63 @@
+campaign_id,campaign_name,channel,platform,start_date,end_date,month,product_focus,target_audience,creative_type,offer_type,spend,impressions,clicks,leads,conversions,revenue,likes,shares
+CMP001,Festive Gifting - Instagram Ads,Social Media,Instagram Ads,2025-11-02,2025-11-16,2025-11,Gift Sets,25-34,Reel,No Offer,73829,589939.0,11566.0,1738,310,281006.0,33334.0,1526.0
+CMP002,Festive Gifting - YouTube Ads,Social Media,YouTube Ads,2025-11-02,2025-11-23,2025-11,Gift Sets,18-24,Video,Discount,124794,851938.0,10520.0,1106,122,93773.0,50013.0,2415.0
+CMP003,Festive Gifting - YouTube Ads,Social Media,YouTube Ads,2025-11-03,2025-11-19,2025-11,Gift Sets,18-24,Video,Discount,174334,1579267.0,,1365,153,117417.0,67200.0,5670.0
+CMP004,Festive Gifting - Local Event / Pop-up,Events,Local Event / Pop-up,2025-11-06,2025-11-09,2025-11,Gift Sets,25-34,Stall + Sampling,Free Sample,189096,9233.0,1251.0,513,395,439040.0,,
+CMP005,Festive Gifting - Facebook Ads,Social Media,Facebook Ads,2025-11-10,2025-11-22,2025-11,Gift Sets,18-24,Static,No Offer,101768,1225379.0,,1191,66,57797.0,67168.0,5936.0
+CMP006,Festive Gifting - Local Event / Pop-up,Events,Local Event / Pop-up,2025-11-18,2025-11-20,2025-11,Gift Sets,18-24,Stall + Sampling,Free Sample,202615,,2097.0,998,350,374694.0,,
+CMP007,Festive Gifting - Local Event / Pop-up,Events,Local Event / Pop-up,2025-11-19,2025-11-22,2025-11,Gift Sets,18-24,Stall + Sampling,Free Sample,270458,6632.0,,542,229,216664.0,,
+CMP008,Festive Gifting - Local Event / Pop-up,Events,Local Event / Pop-up,2025-11-26,2025-11-28,2025-11,Gift Sets,18-24,Stall + Sampling,Free Sample,257260,,829.0,303,173,160020.0,,
+CMP009,Festive Gifting - Micro Influencer,Influencer,Micro Influencer,2025-12-01,2025-12-28,2025-12,Gift Sets,18-24,Reel,Discount,77235,379623.0,10381.0,2391,351,253005.0,13306.0,1007.0
+CMP010,Festive Gifting - Instagram Ads,SOCIAL MEDIA,Instagram Ads,2025-12-04,2025-12-26,2025-12,Gift Sets,35-44,Static,No Offer,127380,989907.0,13965.0,2318,342,317280.0,21751.0,1742.0
+CMP011,Festive Gifting - Instagram Ads,Social Media,Instagram Ads,2025-12-10,2025-12-20,2025-12,Gift Sets,25-34,Reel,Discount,119913,1076770.0,21796.0,3461,624,475490.0,48320.0,2824.0
+CMP012,Festive Gifting - Facebook Ads,Social Media,Facebook Ads,2025-12-16,2025-12-26,2025-12,Gift Sets,25-34,Video,Discount,79243,888701.0,9822.0,1012,133,97903.0,28395.0,2051.0
+CMP013,Winter Hydration - Instagram Ads,Social Media,Instagram Ads,2026-01-03,2026-01-16,2026-01,Hydrating Moisturiser,25-34,Static,No Offer,134708,1145480.0,15223.0,2414,292,257796.0,34713.0,3088.0
+CMP014,Winter Hydration - Mega Influencer,Influencer,Mega Influencer,2026-01-03,2026-01-20,2026-01,Hydrating Moisturiser,25-34,Reel,Discount,455660,5703685.0,49061.0,10170,341,240033.0,293510.0,24980.0
+CMP015,Winter Hydration - Email Newsletter,Email,Email Newsletter,2026-01-08,2026-01-18,2026-01,Hydrating Moisturiser,18-24,Newsletter,Discount,10767,32588.0,859.0,178,21,20020.0,,
+CMP016,Winter Hydration - YouTube Ads,Social Media,YouTube Ads,2026-01-09,2026-01-27,2026-01,Hydrating Moisturiser,35-44,Video,No Offer,188003,1496416.0,9809.0,1014,129,125208.0,32417.0,2591.0
+CMP017,Winter Hydration - Email Newsletter,EMAIL ,Email Newsletter,2026-01-10,2026-01-23,2026-01,Hydrating Moisturiser,25-34,Newsletter,Discount,21427,58306.0,2221.0,397,400,97416.0,,
+CMP018,Winter Hydration - Email Newsletter,Email,Email Newsletter,2026-01-12,2026-01-22,2026-01,Hydrating Moisturiser,35-44,Newsletter,No Offer,20618,27273.0,695.0,154,26,26470.0,,
+CMP019,Winter Hydration - YouTube Ads,Social Media,YouTube Ads,2026-01-13,2026-01-27,2026-01,Hydrating Moisturiser,25-34,Video,No Offer,83521,652332.0,5151.0,503,42,36831.0,28504.0,1896.0
+CMP020,Love Your Lips - Instagram Ads,Social Media,Instagram Ads,2026-02-01,2026-02-25,2026-02,Lip Care & Lipstick,25-34,Reel,No Offer,179572,1591185.0,31793.0,5247,761,589265.0,52023.0,2313.0
+CMP021,Love Your Lips - Mega Influencer,Influencer,Mega Influencer,2026-02-02,2026-02-22,2026-02,Lip Care & Lipstick,18-24,Reel,No Offer,594150,6127532.0,50267.0,11456,193,149749.0,286794.0,25456.0
+CMP022,Love Your Lips - Nano Influencer,Influencer,Nano Influencer,2026-02-03,2026-02-27,2026-02,Lip Care & Lipstick,18-24,Reel,Discount,20624,66220.0,3056.0,775,171,114569.0,2140.0,126.0
+CMP023,Love Your Lips - Local Event / Pop-up,Events,Local Event / Pop-up,2026-02-08,2026-02-11,2026-02,Lip Care & Lipstick,18-24,Stall + Sampling,Free Sample,233479,,,550,207,214767.0,,
+CMP024,Love Your Lips - Local Event / Pop-up,Events,Local Event / Pop-up,2026-02-25,2026-02-27,2026-02,Lip Care & Lipstick,18-24,Stall + Sampling,Bundle,172543,8230.0,1220.0,435,99,127766.0,,
+CMP025,Fresh Start - Facebook Ads,Social Media,Facebook Ads,2026-03-01,2026-03-27,2026-03,Face Wash,25-34,Carousel,Discount,117486,1212981.0,12206.0,1333,88,60066.0,51711.0,2230.0
+CMP026,Fresh Start - Macro Influencer,Influencer,Macro Influencer,2026-03-03,2026-03-27,2026-03,Face Wash,25-34,Reel,No Offer,243905,2050476.0,31979.0,4973,305,272514.0,66317.0,3728.0
+CMP027,Fresh Start - Nano Influencer,Influencer,Nano Influencer,2026-03-10,2026-03-25,2026-03,Face Wash,25-34,Reel,Discount,23683,123336.0,4910.0,1001,203,157610.0,7190.0,415.0
+CMP028,Fresh Start - Email Newsletter,Email,Email Newsletter,2026-03-11,2026-03-22,2026-03,Face Wash,25-34,Newsletter,Free Sample,20016,57829.0,1552.0,362,363,118649.0,,
+CMP029,Sun Shield - Instagram Ads,Social Media,Instagram Ads,2026-04-01,2026-04-22,2026-04,Sunscreen SPF50,25-34,Reel,Discount,160695,1406725.0,29218.0,4653,694,527023.0,73438.0,3635.0
+CMP031,Sun Shield - Instagram Ads,Social Media,Instagram Ads,2026-04-02,2026-04-27,2026-04,Sunscreen SPF50,18-24,Static,No Offer,93037,710683.0,10557.0,1559,135,114373.0,20027.0,1355.0
+CMP030,Sun Shield - Facebook Ads,Social Media,Facebook Ads,2026-04-02,2026-04-18,2026-04,Sunscreen SPF50,18-24,Static,No Offer,126683,1389861.0,10854.0,1103,61,47465.0,31553.0,1987.0
+CMP032,Sun Shield - Email Newsletter,Email,Email Newsletter,2026-04-03,2026-04-17,2026-04,Sunscreen SPF50,25-34,Newsletter,Bundle,16165,50587.0,1769.0,371,113,115497.0,,
+CMP032,Sun Shield - Email Newsletter,Email,Email Newsletter,2026-04-03,2026-04-17,2026-04,Sunscreen SPF50,25-34,Newsletter,Bundle,16165,50587.0,1769.0,371,113,115497.0,,
+CMP033,Sun Shield - YouTube Ads,Social Media,YouTube Ads,2026-04-03,2026-04-27,2026-04,Sunscreen SPF50,35-44,Video,Bundle,99166,766266.0,5769.0,614,93,107115.0,16317.0,971.0
+CMP034,Sun Shield - Local Event / Pop-up,Events,Local Event / Pop-up,2026-04-10,2026-04-13,2026-04,Sunscreen SPF50,25-34,Stall + Sampling,Free Sample,222719,,1394.0,729,392,438120.0,,
+CMP035,Sun Shield - Micro Influencer,Influencer,Micro Influencer,2026-04-12,2026-04-24,2026-04,Sunscreen SPF50,18-24,Story,Discount,92966,,9670.0,2212,321,224254.0,10404.0,879.0
+CMP036,Sun Shield - Instagram Ads,Social Media,Instagram Ads,2026-04-18,2026-04-26,2026-04,Sunscreen SPF50,25-34,Reel,Discount,97718,768820.0,15780.0,2897,664,448512.0,35718.0,2665.0
+CMP037,Sun Shield - Email Newsletter,Email,Email Newsletter,2026-05-01,2026-05-23,2026-05,Sunscreen SPF50,18-24,Newsletter,No Offer,21774,58158.0,1948.0,421,69,57045.0,,
+CMP038,Sun Shield - Mega Influencer,Influencer,Mega Influencer,2026-05-05,2026-05-12,2026-05,Sunscreen SPF50,25-34,Reel,Discount,399831,3923518.0,42982.0,9544,263,203864.0,112683.0,9690.0
+CMP039,Sun Shield - Facebook Ads,Social Media,Facebook Ads,2026-05-05,2026-05-22,2026-05,Sunscreen SPF50,25-34,Video,No Offer,123314,1638667.0,14669.0,1468,77,55243.0,73368.0,4603.0
+CMP040,Sun Shield - Nano Influencer,Influencer,Nano Influencer,2026-06-05,2026-06-28,2026-06,Sunscreen SPF50,18-24,Story,No Offer,28841,119355.0,3573.0,800,81,65223.0,3335.0,202.0
+CMP041,Sun Shield - Email Newsletter,Email,Email Newsletter,2026-06-07,2026-06-16,2026-06,Sunscreen SPF50,18-24,Newsletter,Discount,24501,41633.0,1399.0,311,67,57690.0,,
+CMP042,Sun Shield - Micro Influencer,Influencer,Micro Influencer,2026-06-12,2026-06-26,2026-06,Sunscreen SPF50,18-24,Reel,Bundle,106017,544350.0,12951.0,2838,220,201073.0,24585.0,1169.0
+CMP045,Vitamin C Glow - Instagram Ads,Social media ,Instagram Ads,2026-07-01,2026-07-25,2026-07,Vitamin C Serum,25-34,Reel,Discount,156555,1382238.0,19729.0,3026,403,332610.0,61138.0,4287.0
+CMP043,Vitamin C Glow - Nano Influencer,Influencer,Nano Influencer,2026-07-01,2026-07-09,2026-07,Vitamin C Serum,25-34,Story,No Offer,28769,121783.0,,506,56,51112.0,3870.0,315.0
+CMP043,Vitamin C Glow - Nano Influencer,Influencer,Nano Influencer,2026-07-01,2026-07-09,2026-07,Vitamin C Serum,25-34,Story,No Offer,28769,121783.0,,506,56,51112.0,3870.0,315.0
+CMP044,Vitamin C Glow - Instagram Ads,Social Media,Instagram Ads,2026-07-01,2026-07-28,2026-07,Vitamin C Serum,25-34,Reel,Bundle,95157,717035.0,10532.0,1655,250,242775.0,41330.0,2357.0
+CMP046,Vitamin C Glow - Micro Influencer,Influencer,Micro Influencer,2026-07-12,2026-07-28,2026-07,Vitamin C Serum,25-34,Story,Free Sample,97731,443043.0,7357.0,1533,243,212882.0,15727.0,921.0
+CMP047,Mask Monday - Micro Influencer,Influencer,Micro Influencer,2026-08-01,2026-08-29,2026-08,Sheet Masks,18-24,Story,No Offer,117320,481675.0,8993.0,2175,143,116381.0,19342.0,1133.0
+CMP048,Mask Monday - Facebook Ads,social media,Facebook Ads,2026-08-01,2026-08-29,2026-08,Sheet Masks,25-34,Video,No Offer,89257,1106149.0,7933.0,937,50,39929.0,24489.0,1248.0
+CMP049,Mask Monday - Macro Influencer,Influencer,Macro Influencer,2026-08-04,2026-08-20,2026-08,Sheet Masks,25-34,Video,No Offer,235202,1415202.0,,3303,136,123430.0,79566.0,4233.0
+CMP050,Mask Monday - Macro Influencer,Influencer,Macro Influencer,2026-08-07,2026-08-17,2026-08,Sheet Masks,35-44,Reel,No Offer,297949,2185548.0,25554.0,5693,253,266257.0,45326.0,3928.0
+CMP051,Mask Monday - Instagram Ads,Social Media,Instagram Ads,2026-08-10,2026-08-20,2026-08,Sheet Masks,18-24,Reel,No Offer,171300,,,3247,241,193345.0,47996.0,2311.0
+CMP052,Vitamin C Glow - Instagram Ads,Social Media,Instagram Ads,2026-09-01,2026-09-27,2026-09,Vitamin C Serum,35-44,Carousel,Discount,84266,657260.0,9521.0,1594,218,167671.0,31479.0,1793.0
+CMP053,Vitamin C Glow - Facebook Ads,Social Media,Facebook Ads,2026-09-03,2026-09-24,2026-09,Vitamin C Serum,25-34,Video,Discount,116535,1267794.0,12486.0,1077,63,44663.0,45975.0,3554.0
+CMP054,Vitamin C Glow - Email Newsletter,Email,Email Newsletter,2026-09-05,2026-09-28,2026-09,Vitamin C Serum,25-34,Newsletter,Bundle,14730,54048.0,1873.0,380,110,124948.0,,
+CMP055,Vitamin C Glow - Macro Influencer,Influencer,Macro Influencer,2026-09-10,2026-09-22,2026-09,Vitamin C Serum,25-34,Video,Free Sample,219229,1878469.0,22567.0,5603,569,436010.0,49897.0,4344.0
+CMP056,Festive Glow - Email Newsletter,Email,Email Newsletter,2026-10-01,2026-10-24,2026-10,Festive Glow Kit,35-44,Newsletter,Bundle,21908,40985.0,1103.0,195,44,49585.0,,
+CMP057,Festive Glow - Instagram Ads,Social Media,Instagram Ads,2026-10-01,2026-10-09,2026-10,Festive Glow Kit,18-24,Carousel,Free Sample,77282,,,2495,363,264874.0,32670.0,1685.0
+CMP058,Festive Glow - Facebook Ads,Social Media,Facebook Ads,2026-10-02,2026-10-11,2026-10,Festive Glow Kit,35-44,Carousel,Bundle,53981,592399.0,5629.0,603,38,37253.0,17900.0,1491.0
+CMP059,Festive Glow - Instagram Ads,Social Media,Instagram Ads,2026-10-03,2026-10-15,2026-10,Festive Glow Kit,18-24,Static,No Offer,130991,1013369.0,11803.0,1936,191,151736.0,56584.0,3479.0
+CMP060,Festive Glow - Email Newsletter,Email,Email Newsletter,2026-10-16,2026-10-28,2026-10,Festive Glow Kit,25-34,Newsletter,No Offer,10710,24453.0,912.0,172,35,33595.0,,
